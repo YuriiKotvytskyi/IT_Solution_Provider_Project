@@ -1,0 +1,435 @@
+<!DOCTYPE HTML>
+<html lang="en-US"><head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1">
+	<meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css">
+	<link rel="stylesheet" type="text/css" href="css/all.min.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/own.css">
+	<link rel="stylesheet" type="text/css" href="css/responsive.css">
+</head>
+<body>
+<section id="menu" class="fixed-top">
+<div class="container">
+   <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">
+  <div class="logo">
+   <img id="log" src="Image/mylogo.png"/>
+  </div>
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active hm">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+       <li class="nav-item">
+        <a class="nav-link" href="#about">About Us</a>
+      </li>
+     <li class="nav-item">
+        <a class="nav-link" href="#service">Services</a>
+      </li>
+	  <li class="nav-item">
+        <a class="nav-link" href="#portfolio">Our portfolio</a>
+      </li>
+	  <li class="nav-item">
+        <a class="nav-link" href="#pricing">Our pricing</a>
+      </li>
+	  <li class="nav-item">
+        <a class="nav-link" href="#contact">contact</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+</div>
+</section>
+<section id="slider">
+<div class="slider-overlay">
+ <div class="container">
+ <div class="bd-example">
+  <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+      <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        
+		<h2>WE WANT TO SERVE <span>YOU</span></h2>
+		
+      </div>
+      <div class="carousel-item">
+     <h2>HERE IS <span>MH IT</span></h2>
+      </div>
+      <div class="carousel-item">
+      <h2>DO YOU NEED <span>US?</span></h2>
+      </div>
+    </div>
+	</div>
+  </div>
+</div>
+</div>
+</section>
+<section id="about" class="text-center">
+<div class="container">
+<div class="about_us">
+<h2>ABOUT US</h2>
+<p>MH IT is a leading IT solutions provider that focuses on quality, innovation, & speed. We utilized technology to bring results to grow our clients businesses. We pride ourselves in great work ethic, integrity, and end-results. Whether you have an established business, or perhaps you are just starting out on the Internet.</p>
+</div>
+<div class="about_content">
+<div class="row">
+<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-3">
+<div class="about_icon">
+<i class="fas fa-laptop"></i>
+<h2>WEB DESIGN</h2>
+<p>We Provide Professional & Affordable Website Designing Services. Services such as customised website design, Web 2.0 design, WordPress designing, open source designing and website redesigning services.</p>
+</div>
+</div>
+<div class="col-12 col-sm-12  col-md-6 col-lg-6 col-xl-3">
+<div class="about_icon">
+<i class="fas fa-tools"></i>
+<h2>WEB DEVELOPMENT</h2>
+<p>Our Web Development Services can vary from having  a database driven business website, real estate website, educational website, restaurant website, personal website, an e-Commerce Website so you could start selling online.</p>
+</div>
+</div>
+<div class="col-12 col-sm-12  col-md-6 col-lg-6 col-xl-3">
+<div class="about_icon">
+<i class="fab fa-searchengin"></i>
+<h2>SEO</h2>
+<p>The ability to design and implement a web page that is search engine friendly and yet provides customer satisfaction.We can offer the SEO services you are looking for that can keep you ahead of your competitors.</p>
+</div>
+</div>
+<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-3">
+<div class="about_icon">
+<i class="fas fa-magic"></i>
+<h2>LOGO DESIGN</h2>
+<p>Our designers are specialize in brochure design, print marketing and corporate branding. Our goal is to help you achieve a professional and consistent look throughout all of your branding starting with your logo.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="service">
+<div class="container">
+<div class="about_us text-center">
+<h2>SERVICES</h2>
+<p>We at MH IT, offer lots of services to augment, develop, manage, and better maintain web material at a reasonable cost. We will manage each stage of the development process, giving your company an effective online presence. Our developed websites are works of art which expresses your words and thoughts in an interactive and mesmerizing fashion giving you a chance to showcase your business needs with ease.</p>
+</div>
+<div class="about_content">
+<div class="row">
+<div class="col-6  col-sm-6 col-md-3">
+<div class="about_icon">
+<img src="Image/service1.jpg"/>
+<div class="service_overlay"></div>
+<div class="service_icon_overlay">
+<i class="fab fa-linkedin-in"></i>
+<i class="fab fa-twitter"></i>
+</div>
+</div>
+</div>
+<div class="col-6 col-sm-6  col-md-3">
+<div class="about_icon">
+<img src="Image/service2.jpg"/>
+<div class="service_overlay"></div>
+<div class="service_icon_overlay">
+<i class="fab fa-linkedin-in"></i>
+<i class="fab fa-twitter"></i>
+</div>
+</div>
+</div>
+<div class="col-6 col-sm-6 col-md-3">
+<div class="about_icon">
+<img src="Image/service3.jpg"/>
+<div class="service_overlay"></div>
+<div class="service_icon_overlay">
+<i class="fab fa-linkedin-in"></i>
+<i class="fab fa-twitter"></i>
+</div>
+</div>
+</div>
+<div class="col-6 col-sm-6 col-md-3">
+<div class="about_icon">
+<img src="Image/service4.jpg"/>
+<div class="service_overlay"></div>
+<div class="service_icon_overlay">
+<i class="fab fa-linkedin-in"></i>
+<i class="fab fa-twitter"></i>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="portfolio" class="text-center">
+<div class="container">
+<h2>our portfolio</h2>
+<p>Here are some portfolio of our works</p>
+<div class="grid">
+  <div class="element-item">
+    <img src="Image/p1.jpg"/>
+	<div class="img_overlay"></div>
+	<div class="img_text_overlay">
+	<h3>WEB DESIGN</h3> 
+	</div>
+  </div>
+  <div class="element-item">
+    <img src="Image/p2.jpg"/>
+	<div class="img_overlay"></div>
+	<div class="img_text_overlay">
+	<h3>WEB DESIGN</h3> 
+	</div>
+  </div>
+  <div class="element-item">
+    <img src="Image/p3.jpg"/>
+	<div class="img_overlay"></div>
+	<div class="img_text_overlay">
+	<h3>WEB DEVELOPMENT</h3> 
+	</div>
+  </div>
+  <div class="element-item">
+   <img src="Image/p4.jpg"/>
+   <div class="img_overlay"></div>
+	<div class="img_text_overlay">
+	<h3>WEB DEVELOPMENT</h3>
+  </div>
+  </div>
+  <div class="element-item">
+    <img src="Image/p5.jpg"/>
+	<div class="img_overlay"></div>
+	<div class="img_text_overlay">
+	<h3>SEO</h3> 
+	</div>
+  </div>
+  <div class="element-item ">
+    <img src="Image/p6.jpg"/>
+	<div class="img_overlay"></div>
+	<div class="img_text_overlay">
+	<h3>LOGO DESIGN</h3> 
+	</div>
+  </div>
+  </div>
+</div>
+</section>
+<section id="pricing" class="text-center">
+<div class="container">
+<div class="about_pricing">
+<h2>our pricing</h2>
+<p>Here are  our pricing set for domain hosting</p>
+</div>
+<div class="price_tag">
+ <div class="row">
+		 <div class="col-12  col-sm-6 col-md-3 col-xl-3">
+		 <div class="pricing_content text-center">
+		   <div class="pricing_top">
+		   <p class="pt1"><sup>$</sup><span>0</span><span class="sp">/month</span></p>
+             <p class="pt2">Plan1</p>
+		   </div>
+		   <div class="pricing_mid">
+		   <ul>
+		   <li><i class="fas fa-check-circle"></i>5GB space</li>
+		   <li><i class="fas fa-check-circle"></i>10GB bandwidth</li>
+		   <li><i class="fas fa-times-circle"></i>15 email account</li>
+		   <li><i class="fas fa-times-circle"></i>Unlimited Domain</li>
+		   <li><i class="fas fa-times-circle"></i>Unlimited Support</li>
+		   </ul>
+		   </div>
+		   <div class="btn" id="pbtn1">order now</div>
+		 </div>
+		 </div>
+		 <div class="col-12 col-sm-6 col-md-3 col-xl-3">
+		 <div class="pricing_content">
+		  <div class="pricing_top">
+		   <p class="pt1"><sup>$</sup><span>10</span><span class="sp">/month</span></p>
+		   <p class="pt2">Plan2</p>
+		   </div>
+		   <div class="pricing_mid">
+		   <ul>
+		   <li><i class="fas fa-check-circle"></i>10GB space</li>
+		   <li><i class="fas fa-check-circle"></i>100GB bandwidth</li>
+		   <li><i class="fas fa-check-circle"></i>15 email account</li>
+		   <li><i class="fas fa-times-circle"></i>Unlimited Domain</li>
+		   <li><i class="fas fa-times-circle"></i>Unlimited Support</li>
+		   </ul>
+		   </div>
+		   <div class="btn" id="pbtn2">order now</div>
+		 </div>
+		 </div>
+		 <div class="col-12 col-sm-6 col-md-3 col-xl-3">
+		 <div class="pricing_content">
+		 <div class="pricing_top">
+		   <p class="pt1"><sup>$</sup><span>50</span><span class="sp">/month</span></p>
+		   <p class="pt2">Plan3</p>
+		   </div>
+		   <div class="pricing_mid">
+		   <ul>
+		   <li><i class="fas fa-check-circle"></i>20GB space</li>
+		   <li><i class="fas fa-check-circle"></i>200GB bandwidth</li>
+		   <li><i class="fas fa-check-circle"></i>50 email account</li>
+		   <li><i class="fas fa-check-circle"></i>Unlimited Domain</li>
+		   <li><i class="fas fa-times-circle"></i>Unlimited Support</li>
+		   </ul>
+		   </div>
+		   <div class="btn" id="pbtn3">order now</div>
+		 </div>
+		 </div>
+		 <div class="col-12 col-sm-6  col-md-3 col-xl-3">
+		 <div class="pricing_content">
+		  <div class="pricing_top">
+		   <p class="pt1"><sup>$</sup><span>100</span><span class="sp">/month</span></p>
+		   <p class="pt2">Plan4</p>
+		   </div>
+		   <div class="pricing_mid">
+		   <ul>
+		   <li><i class="fas fa-check-circle"></i>50GB space</li>
+		   <li><i class="fas fa-check-circle"></i>Unlimited bandwidth</li>
+		   <li><i class="fas fa-check-circle"></i>1Unlimited account</li>
+		   <li><i class="fas fa-check-circle"></i>Unlimited Domain</li>
+		   <li><i class="fas fa-check-circle"></i>Unlimited Support</li>
+		   </ul>
+		   </div>
+		   <div class="btn" id="pbtn4">order now</div>
+		 </div>
+		 </div>
+ </div>
+ </div>
+ </div>
+</section>
+		<section id="counterup">
+		<div class="counter_overlay">
+		</div>
+		<div class="container">
+		<div class="counter_content text-center">
+		<div class="row">
+		<div class="col-12 col-md-3">
+		<div class="counterpart">
+		<span class="counter">150</span>
+		<p>Projects completed</p>
+		</div>
+		</div>
+		<div class="col-12 col-md-3">
+		<div class="counterpart">
+		<span class="counter">40</span>
+		<p>Happy clients</p>
+		</div>
+		</div>
+		<div class="col-12 col-md-3">
+		<div class="counterpart">
+		<span class="counter">420</span>
+		<p>Coffee offered</p>
+		</div>
+		</div>
+		<div class="col-12 col-md-3">
+		<div class="counterpart">
+		<span class="counter">18</span>
+		<p>Articles published</p>
+		</div>
+		</div>
+		</div>
+		</div>
+		</div>
+		</section>
+		<section id="contact" class="text-center">
+		<div class="container">
+		<div class="contact_top">
+		<h2>CONTACT US</h2>
+		<p>Email us with any questions or inquiries</p>
+		</div>
+		<div class="contact_bottom">
+		<div class="row">
+		<div class="col-12 col-sm-12 col-md-6 col-lg-3">
+		<div class="contact_content">
+		<i class="fas fa-phone-alt"></i>
+		<h4 class="ch">CALL US</h4>
+		<p>+8801812346095</p>
+		</div>
+		</div>
+		<div class="col-12 col-sm-12 col-md-6 col-lg-3">
+		<div class="contact_content">
+		<i class="fas fa-map-marker-alt"></i>
+		<h4 class="ch">OFFICE LOCATION</h4>
+		<p>Chawkbazar,Chittagong </p>
+		</div>
+		</div>
+		<div class="col-12 col-sm-12 col-md-6 col-lg-3">
+		<div class="contact_content">
+		<i class="fas fa-envelope"></i>
+		<h4 class="ch">EMAIL</h4>
+		<p>mahbubulhasan179@gmail.com</p>
+		</div>
+		</div>
+		<div class="col-12 col-sm-12 col-md-6 col-lg-3">
+		<div class="contact_content">
+		<i class="fas fa-globe-asia"></i>
+		<h4 class="ch">WEBSITE</h4>
+		<p><a href="https://mahbubulhasansakib.wordpress.com/">mahbubulhasansakib.wordpress.com</a></p>
+		</div>
+		</div>
+		</div>
+		</div>
+		</div>
+		</section>
+	<section id="form_submit">
+	<div class="container">
+	<form action="" method="POST">
+	<div class="row">
+	<div class="col-md-6">
+	<input type="text" id="nm" name="user" class="form-control" placeholder="Full Name">
+	<input type="email" id="ml" name="mailing" class="form-control" placeholder="Email">
+	<input type="text" id="phn"  name="phone" class="form-control" placeholder="Phone">
+	</div>
+	<div class="col-md-6">
+	<textarea class="form-control" placeholder="Message" name="message" rows="3" id="msg"></textarea>
+	<button class="button s_btn" id="submit">SUBMIT NOW</button>
+	</div>
+	</div>
+	</form>
+	</div>
+	</section>
+	<section id="map">
+	<div class="row">
+	<div class="col-12 col-sm-12 col-md-12">
+	<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3689.966783230151!2d91.83901801453119!3d22.35488304656135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ad27658c6763ad%3A0x1c8f10af0f89b655!2sAl-Amin%20Park!5e0!3m2!1sen!2sbd!4v1573809366815!5m2!1sen!2sbd" width="1400" height="500" frameborder="0" style="border:0;" allowfullscreen=""></iframe></p>
+	</div>
+	</div>
+	</section>
+	<section id="footer">
+	<p> © 2020 Copyright;
+    MH IT|Developed By:<a href="https://www.facebook.com/profile.php?id=100008005877122">Mahbubul Hasan Sakib</a></p>
+	</section>
+	<script src="js/jquery-3.4.1.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.0/jquery.waypoints.min.js"></script>
+    <script src="js/jquery.counterup.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+     <script src="js/myown.js"></script>
+	<?php
+  if((isset($_POST["user"]) && trim($_POST["user"]) != "") && (isset($_POST["mailing"]) && trim($_POST["mailing"]) != "" &&(filter_var($_POST["mailing"], FILTER_VALIDATE_EMAIL))) && (isset($_POST["phone"]) && trim($_POST["phone"]) != "") && 
+  (isset($_POST["message"]) && trim($_POST["message"]) != "")){
+  $username=$_REQUEST["user"];
+  $mail=$_REQUEST["mailing"];
+  $phone=$_REQUEST["phone"];
+  $msg=$_REQUEST["message"];
+  $host="localhost";
+  $user="root";
+  $password="";
+  $database="contact";
+  $connect=mysqli_connect($host, $user,$password, $database);
+  if($connect==true)
+  {
+	  $insert="INSERT INTO users values('$username','$mail','$phone','$msg')";
+	  $runquery=mysqli_query($connect,$insert);
+  }
+	 
+  }
+
+?>
+</body>
+</html>

@@ -1,0 +1,250 @@
+@media (max-width: 575.98px)  {
+	body{
+	background:azure;
+	}
+	body {
+  overflow-x: hidden;
+}
+	.pricing_content {
+    background-color: #39393a;
+    border-radius: 5px;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 15px 39px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+	}
+	dl, ol, ul {
+  
+    margin: 0;
+    padding: 0;
+}
+.navbar-light .navbar-brand {
+    width: 20%;
+}
+.navbar-light .navbar-toggler {
+    color: black;
+    border-color: aquamarine;
+    background-color: darkcyan;
+    margin-left: 7%;
+    margin-top: 5px;
+}
+.pricing_content {
+  
+    max-width: 205px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.pricing_top {
+    width: 130px;
+    height: 130px;
+    border: 5px solid 
+    #fff;
+    border-radius: 100%;
+    margin: 0 auto;
+        
+    margin-bottom: 20px;
+}
+.counterpart {
+    margin: 20px -62px;
+}
+#portfolio p {
+    max-width: 670px;
+	}
+	.element-item {
+    position: relative;
+    float: left;
+    color: #262524;
+    width: 50%;
+    border: 10px solid #fff;
+    overflow: hidden;
+}
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+body{
+	background:azure;
+	}
+
+	#form_submit {
+    background-color: 
+    #f5f5f5;
+    padding-top: 100px;
+    padding-bottom: 40px;
+}
+.navbar-light .navbar-brand {
+    width: 20%;
+ 
+}
+.navbar-light .navbar-toggler {
+    color: black;
+    border-color: aquamarine;
+    background-color: darkcyan;
+    margin-left: 7%;
+    margin-top: 5px;
+}
+	.pricing_content {
+border-radius: 5px;
+color:
+    #fff;
+    text-transform: uppercase;
+    padding: 15px 39px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+}
+dl, ol, ul {
+  
+    margin: 0;
+    padding: 0;
+}
+.counterpart {
+
+    margin-bottom: 20px;
+}
+.element-item {
+    position: relative;
+    float: left;
+    color: #262524;
+    width: 50%;
+    border: 10px solid #fff;
+    overflow: hidden;
+}
+}
+@media (min-width: 768px) and (max-width: 991.98px) { 
+body{
+	background:azure;
+	}
+	dl, ol, ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin: 0;
+    padding: 0;
+}
+.pricing_content {
+    background-color: #39393a;
+    border-radius: 5px;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 15px 6px;
+    margin-right: -21px;
+    margin-bottom: 10px;
+}
+.counterpart {
+    color: #fff;
+    background: transparent;
+    border: 1px solid #6c7072;
+    height: 192px;
+}
+.pricing_top {
+    width: 120px;
+    height: 120px;
+    border: 5px solid #fff;
+    border-radius: 100%;
+	margin: 0 auto;
+    margin-bottom: 19px;
+}
+.element-item {
+    position: relative;
+    float: left;
+    color: #262524;
+    width: 50%;
+    border: 10px solid #fff;
+    overflow: hidden;
+}
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+body{
+	background:azure;
+	}
+	.logo {
+     padding-right: 0px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 9px;
+    padding-left: 0px;
+    color: #fff;
+}
+.navbar-brand {
+ 
+     margin-right:0;
+   
+}
+.navbar-nav {
+    -ms-flex-direction: row;
+    flex-direction: row;
+    margin-left: 35px;
+}
+	.pricing_content {
+    background-color: #39393a;
+    border-radius: 5px;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 15px 20px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+dl, ol, ul {
+    padding: 0;
+    margin: 0;
+}
+.pricing_top {
+    width: 124px;
+    height: 124px;
+    border: 5px solid 
+    #fff;
+    border-radius: 100%;
+    margin-bottom: 25px;
+    font-weight: bold;
+}
+.pricing_content .btn {
+   
+    border-radius: 0;
+    padding: 5px 10px;
+}
+#footer {
+    height: 57px;
+    background: #b2dbb5;
+    padding: 18px 15px 0px 15px;
+    text-align: center;
+}
+}
+@media (min-width: 1200px) { 
+body{
+	background:azure;
+	}
+	.pricing_top {
+    width: 130px;
+    height: 130px;
+    border: 5px solid #fff;
+    border-radius: 100%;
+    margin-bottom: 0px;
+    font-weight: bold;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+
+dl, ol, ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    padding: 0;
+    margin: 0;
+}
+.pricing_content {
+    background-color: #39393a;
+    border-radius: 5px;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 15px 21px;
+    margin-right: 47px;
+    margin-bottom: 10px;
+}
+#footer {
+    height: 57px;
+    background: #b2dbb5;
+    padding: 18px 15px 0px 15px;
+    text-align: center;
+}
+ }
